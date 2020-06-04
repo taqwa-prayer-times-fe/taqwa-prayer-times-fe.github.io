@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13d9237e13eb986b8e1cd75a0f18c032",
+    "revision": "775319de369c03c3012f687dba0e5485",
     "url": "https://taqwa2.zuhd.org/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://taqwa2.zuhd.org/static/css/Week.9994d638.chunk.css"
   },
   {
-    "revision": "0befdedaa64f5b4b8263",
+    "revision": "17c26b799f697ebe60b9",
     "url": "https://taqwa2.zuhd.org/static/css/main.bf594009.chunk.css"
   },
   {
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://taqwa2.zuhd.org/static/js/Week.7db2143c.chunk.js"
   },
   {
-    "revision": "0befdedaa64f5b4b8263",
-    "url": "https://taqwa2.zuhd.org/static/js/main.f7831641.chunk.js"
+    "revision": "17c26b799f697ebe60b9",
+    "url": "https://taqwa2.zuhd.org/static/js/main.4035b403.chunk.js"
   },
   {
     "revision": "8cdc9b416e0fd18b6bce",
