@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35708b11f259371952d65009789f8dfb",
+    "revision": "7bbb4e46ac4658e0069fc912d770ea01",
     "url": "/index.html"
   },
   {
-    "revision": "ac9b2c00e71520e11b20",
+    "revision": "807dfd266f085abfc18d",
     "url": "/static/css/Edit.b58c27a6.chunk.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/Week.2ac12152.chunk.css"
   },
   {
-    "revision": "b17387426c25f72d04a7",
+    "revision": "84568651220c435bc7b6",
     "url": "/static/css/main.4c701e1f.chunk.css"
   },
   {
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/0.483f9ee7.chunk.js"
   },
   {
-    "revision": "b780a098601f83e6c737",
-    "url": "/static/js/10.f3faf486.chunk.js"
+    "revision": "ecf03f8363b935742cad",
+    "url": "/static/js/10.e001e55f.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/10.f3faf486.chunk.js.LICENSE.txt"
+    "url": "/static/js/10.e001e55f.chunk.js.LICENSE.txt"
   },
   {
     "revision": "02695a461c229fe13f69",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/11.1d2478bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac9b2c00e71520e11b20",
-    "url": "/static/js/Edit.943a09a0.chunk.js"
+    "revision": "807dfd266f085abfc18d",
+    "url": "/static/js/Edit.6b8cdcd8.chunk.js"
   },
   {
     "revision": "28f2a18bdfd24d079377",
@@ -84,11 +84,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/Week.490e3d41.chunk.js"
   },
   {
-    "revision": "b17387426c25f72d04a7",
-    "url": "/static/js/main.f35ab5e5.chunk.js"
+    "revision": "84568651220c435bc7b6",
+    "url": "/static/js/main.0c8959a8.chunk.js"
   },
   {
-    "revision": "80986137dc037f91f212",
-    "url": "/static/js/runtime-main.fc7c686f.js"
+    "revision": "42c34856b43bce1ab51d",
+    "url": "/static/js/runtime-main.790dd888.js"
   }
 ]);
