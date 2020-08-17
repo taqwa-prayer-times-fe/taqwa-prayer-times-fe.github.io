@@ -16,12 +16,12 @@
     "Week.css": "/static/css/Week.2ac12152.chunk.css",
     "Week.js": "/static/js/Week.490e3d41.chunk.js",
     "main.css": "/static/css/main.4c701e1f.chunk.css",
-    "main.js": "/static/js/main.f7f98697.chunk.js",
+    "main.js": "/static/js/main.85d5ae4b.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c27bd124.js",
     "static/js/10.e001e55f.chunk.js": "/static/js/10.e001e55f.chunk.js",
     "static/js/11.1d2478bb.chunk.js": "/static/js/11.1d2478bb.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.1590b18ea9656e1ed2ccab5a34c42aac.js": "/precache-manifest.1590b18ea9656e1ed2ccab5a34c42aac.js",
+    "precache-manifest.1d97679453327df794267448ab0dadd3.js": "/precache-manifest.1d97679453327df794267448ab0dadd3.js",
     "service-worker.js": "/service-worker.js",
     "static/js/10.e001e55f.chunk.js.LICENSE.txt": "/static/js/10.e001e55f.chunk.js.LICENSE.txt",
     "static/js/11.1d2478bb.chunk.js.LICENSE.txt": "/static/js/11.1d2478bb.chunk.js.LICENSE.txt"
@@ -30,6 +30,6 @@
     "static/js/runtime-main.c27bd124.js",
     "static/js/10.e001e55f.chunk.js",
     "static/css/main.4c701e1f.chunk.css",
-    "static/js/main.f7f98697.chunk.js"
+    "static/js/main.85d5ae4b.chunk.js"
   ]
 }
