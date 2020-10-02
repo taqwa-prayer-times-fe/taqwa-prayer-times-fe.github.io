@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65d5ecdaa7b0ed3535771002e1ddc445",
+    "revision": "afcc8942ec4c77ff5554249c28643a1e",
     "url": "/index.html"
   },
   {
-    "revision": "7f747c011e443ddebae0",
+    "revision": "86b226ffa7020db7040e",
     "url": "/static/css/Edit.b58c27a6.chunk.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/Week.2ac12152.chunk.css"
   },
   {
-    "revision": "6af052300106abb88442",
+    "revision": "589c5374d99ea5b8ac6b",
     "url": "/static/css/main.348f141f.chunk.css"
   },
   {
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/0.60fc2eeb.chunk.js"
   },
   {
-    "revision": "4f289a48fc543db98fff",
-    "url": "/static/js/10.421eb3c5.chunk.js"
+    "revision": "e079134d1e2738c8f1a6",
+    "url": "/static/js/10.9659ca23.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/10.421eb3c5.chunk.js.LICENSE.txt"
+    "url": "/static/js/10.9659ca23.chunk.js.LICENSE.txt"
   },
   {
     "revision": "051c4a8d20229a03d34b",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/11.a868ea82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f747c011e443ddebae0",
-    "url": "/static/js/Edit.23af8928.chunk.js"
+    "revision": "86b226ffa7020db7040e",
+    "url": "/static/js/Edit.18f1cf26.chunk.js"
   },
   {
     "revision": "b83fe6b8da90dc1078da",
@@ -84,11 +84,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/Week.ba4a3c0a.chunk.js"
   },
   {
-    "revision": "6af052300106abb88442",
-    "url": "/static/js/main.e1c91596.chunk.js"
+    "revision": "589c5374d99ea5b8ac6b",
+    "url": "/static/js/main.a8f28b0e.chunk.js"
   },
   {
-    "revision": "6b4b82676368ee11a4d3",
-    "url": "/static/js/runtime-main.189f7f79.js"
+    "revision": "9f8cdb417810e876652d",
+    "url": "/static/js/runtime-main.bc926e79.js"
   }
 ]);
