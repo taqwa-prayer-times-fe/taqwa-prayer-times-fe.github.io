@@ -1,1 +1,0 @@
-(this["webpackJsonptaqwa-prayer"]=this["webpackJsonptaqwa-prayer"]||[]).push([[5],{243:function(t,n,a){},247:function(t,n,a){"use strict";a.r(n);var e=a(0),r=a.n(e);a(243);n.default=function(){return r.a.createElement("div",null,"404 Not Found!")}}}]);
